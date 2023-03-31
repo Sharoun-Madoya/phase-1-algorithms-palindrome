@@ -19,12 +19,11 @@ function isPalindrome(word) {
 /*
   Add written explanation of your solution here
 */
-// using for loop 
-// make sure length of array are same 
-// make sure beginnig and end pont are same, 
-// if true compare until beggin and end point are equal
-// or beginnigis > than end point for words that are not even 
-// if false return false /if true = pseudocode 
+// // using if condition 
+// split the word given into letters 
+// rewrite the letters 
+// compare the words 
+// use if condition to tell if true or false  
 
 
 // You can run `node index.js` to view these console logs
